@@ -11,4 +11,4 @@ This repository will give you a basic understanding of how Technical Writers Uti
 - Resources
 
 ### Let's get started!
-![A smiling woman sits at a desk with a phone to her ear.](https://unsplash.com/photos/woman-talking-on-phone-at-desk-with-laptop-QzY81G7dbOo)
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
